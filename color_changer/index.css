@@ -1,0 +1,28 @@
+.main
+{
+    display: flex;
+    justify-content: center;
+}
+.btn {
+    color: black;
+    font-size: medium;
+    padding: 15px;
+    border: solid 2px black;
+}
+.btn:hover
+{
+    background-color: black;
+    color: white;
+    
+}
+.colr
+{
+    margin: 0 300px;
+    border-radius: 26px;
+    margin-bottom: 10px;
+    background-color: #030303;
+    display: flex;
+    justify-content: center;
+    margin-top: 40vh
+}
+  
